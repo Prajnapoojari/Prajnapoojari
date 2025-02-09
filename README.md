@@ -1,5 +1,9 @@
 # 💫 About Me:
 BCA Graduate | Python & Machine Learning Enthusiast | Passionate about Data Analysis, Web Development & Problem-Solving
+💬 Ask me about: Python, Java Programming, SQL.
+📫 reach out to me at : prajnapoojari098@gmail.com
+👨‍💻 All of my projects are available at :
+📄 Check out my resume here
 
 
 ## 🌐 Socials:
